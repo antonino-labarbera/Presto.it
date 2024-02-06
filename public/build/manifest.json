@@ -1,0 +1,27 @@
+{
+  "public/img/HEADER4.jpg": {
+    "file": "assets/HEADER4-gZOQJnyu.jpg",
+    "src": "public/img/HEADER4.jpg"
+  },
+  "public/img/HEADER7.jpg": {
+    "file": "assets/HEADER7-5MNn381W.jpg",
+    "src": "public/img/HEADER7.jpg"
+  },
+  "public/img/UtenteLogin.png": {
+    "file": "assets/UtenteLogin-H9h6GIfr.png",
+    "src": "public/img/UtenteLogin.png"
+  },
+  "resources/css/app.css": {
+    "file": "assets/app-QvzgKOIz.css",
+    "isEntry": true,
+    "src": "resources/css/app.css"
+  },
+  "resources/js/app.js": {
+    "css": [
+      "assets/app-7t5sOE1N.css"
+    ],
+    "file": "assets/app-UbYMoh7U.js",
+    "isEntry": true,
+    "src": "resources/js/app.js"
+  }
+}
